@@ -33,3 +33,24 @@ Gruppo: Sescu – Giatti – Malachin – Cosmi
 Il documento mostra una buona comprensione del dominio applicativo e degli obiettivi generali del sistema, ma soffre di una separazione non sempre netta tra requisiti, funzionalità e scelte tecniche. In un contesto progettuale o lavorativo, è fondamentale isolare chiaramente cosa il sistema deve garantire (requisiti), come si comporta dal punto di vista logico-funzionale (funzionale) e come viene realizzato concretamente (tecnica).
 
 L’assenza iniziale di questa distinzione rende più difficile valutare completezza, verificabilità e coerenza dell’architettura backend. La riorganizzazione incrementale delle osservazioni va nella direzione corretta e costituisce una base solida per una successiva revisione progettuale più strutturata.
+
+
+# Valutazione finale del progetto
+
+Il gruppo ha mostrato una buona capacità di revisione della documentazione e ha implementato in modo significativo i feedback forniti durante le diverse milestone, in particolare per quanto riguarda analisi dei requisiti, analisi funzionale e analisi tecnica. La documentazione finale risulta più strutturata, maggiormente coerente con il contesto backend del progetto e complessivamente sufficiente dal punto di vista progettuale.
+
+Sono stati introdotti elementi tecnici e funzionali precedentemente mancanti, come la gestione della validazione dei dati, la distinzione tra dati realtime e storico, la gestione di anomalie e duplicati, le modalità di persistenza e una descrizione più chiara del flusso di acquisizione e trattamento dei dati.
+
+Restano tuttavia criticità importanti nella parte di pianificazione e gestione del progetto. Project Plan e Diagramma di Gantt risultano ancora troppo descrittivi e poco utilizzabili come strumenti reali di gestione operativa, con attività non sempre sufficientemente dettagliate, responsabilità poco isolate e pianificazione temporale non completamente coerente con lo stato reale del progetto.
+
+Dal punto di vista implementativo, il progetto non ha raggiunto gli obiettivi previsti. Non risulta completata una reale integrazione stabile e funzionante dell’intero sistema, e gran parte del lavoro è rimasta a livello documentale o configurativo. La componente pratica del progetto risulta quindi significativamente incompleta rispetto agli obiettivi inizialmente definiti.
+
+Sono inoltre emerse criticità organizzative interne al gruppo, con una distribuzione del lavoro non equilibrata e una partecipazione non omogenea allo sviluppo del progetto, elemento che ha inciso negativamente sull’avanzamento complessivo.
+
+Si richiede pertanto la produzione di una relazione finale tecnica di handover destinata al futuro team di progetto, contenente:
+- stato reale del sistema;
+- componenti funzionanti e componenti incomplete;
+- problematiche tecniche incontrate;
+- configurazioni già realizzate;
+- criticità organizzative emerse;
+- indicazioni operative utili per l’eventuale prosecuzione del progetto.
